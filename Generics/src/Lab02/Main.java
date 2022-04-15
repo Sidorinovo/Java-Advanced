@@ -1,0 +1,9 @@
+package Lab02;
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        MyList<Integer> list = new MyList<>();
+    }
+}
